@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+.staff-container{
+    display: inline-block;
+    margin: 10px;
+}
+
+.img{
+    max-width: 250px;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 5px #003366;
+}
+
+.staff-container .name{
+    font-family: "Sansation", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.staff-container .title{
+    font-family: "Sansation", sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    margin-bottom: 50px;
+}

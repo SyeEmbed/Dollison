@@ -1,0 +1,16 @@
+.button{
+    max-width: 250px;
+    max-height: 70px;
+    background-color: hsla(210, 100%, 20%, 0.681);
+    color: white;
+    font-family: "Sansation", sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.button:hover{
+    background-color: hsla(210, 100%, 20%, 0.40);
+    box-shadow: 3px 3px 5px #003366;
+}
