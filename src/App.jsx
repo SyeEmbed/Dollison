@@ -1,3 +1,4 @@
+import React from 'react';
 import Header from './header'
 import Services from './services'
 import Cards from './cards';
@@ -14,15 +15,19 @@ function App() {
   const handleButtonClick = () => {
     alert('Button clicked!');
   };
-
+  
   
   return(
   
   <>
     <Header/>
-    <Opener/>
-    <Services/>
-    <div style={{ marginLeft: '60px'}}>
+    <div id='Opener'>
+      <Opener/>
+    </div>
+    <div id='Services'>
+      <Services/>
+    </div>
+    <div className='card-container'>
     <Cards
       img="chiro.png"
       title="Chriopractic Care"
@@ -55,9 +60,15 @@ function App() {
     />
     </div>
     <Cons/>
-    <Meet/>
-    <Tests/>
-    <Contact/>
+    <div id="Meet">
+      <Meet/>
+    </div>
+    <div id='Tests'>
+      <Tests/>
+    </div>
+    <div id='Contact'>
+      <Contact/>
+    </div>
     <Footer/>
   </>
 
