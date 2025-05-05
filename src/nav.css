@@ -67,6 +67,24 @@
         display: none;
         flex-direction: column;
         width: 100%;
+        position: absolute;
+        top: 100%;
+        background-color: hsl(210, 100%, 20%);
+        box-shadow: 0 4px 10px black;
+    }
+
+    .nav a{
+        color: white;
+        margin: 3px;
+        cursor: pointer;
+    }
+
+    .nav a:hover{
+        color: hsla(0, 0%, 100%, 0.3);
+    }
+
+    .nav a:active{
+        color: rgba(0, 160, 0, 0.793);
     }
 
     .nav.open{
