@@ -2,6 +2,9 @@
 
 .condition-container{
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     font-family: "Sansation", sans-serif;
     margin-top: 70px;
@@ -10,7 +13,7 @@
 .conditions{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    text-align: center;
     align-items: center;
     margin-left: 50px;
     margin-right: 50px;
