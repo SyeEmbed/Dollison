@@ -9,7 +9,7 @@ function Meet(){
 
             <h1>Meet our staff</h1>
             <p>
-            Since 1987, Dollison Chriopractic and has been dedicated to helping Guernsey County residents 
+            Since 2010, Dollison Chriopractic and has been dedicated to helping Guernsey County residents 
             suffering from chronic and localized pain through non-invasive measures. 
             We have state of the art equipment such as DRS-Spina for lumbar decompression 
             therapy, ML-830 cold laser for carpal tunnel syndrome, and Anodyne Therapy for 

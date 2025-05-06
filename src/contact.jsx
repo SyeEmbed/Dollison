@@ -13,8 +13,8 @@ function Contact(){
                 care imaginable. We are trained in cutting 
                 edge treatments designed to rid you of your 
                 pain and treat your injured area appropriately. 
-                If you are suffering from pain, Morris Rehabilitation 
-                & Physical Therapy is here for you.
+                If you are suffering from pain, Dollison Chiropractic 
+                is here for you.
             </p>
 
             <h2>We are located at:</h2>
