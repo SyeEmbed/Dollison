@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Sansation", sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    background-color: white;
+}
+
+
+

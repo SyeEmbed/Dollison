@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.card-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+

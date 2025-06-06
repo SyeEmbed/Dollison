@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+.meet-container{
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+    margin-top: 50px;
+    background-color: hsla(210, 100%, 20%, 0.594);
+    color: white;
+    font-family: "Sansation", sans-serif;
+}
+
+.meet-container h1{
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.meet-container p{
+    font-size: 20px;
+    margin-bottom: 50px;
+
+}
+
+.meet-container hr{
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px black;
+}
